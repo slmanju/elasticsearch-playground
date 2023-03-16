@@ -1,2 +1,3 @@
-# elasticsearch-playground
-Experiment with Elasticsearch
+# Elasticsearch Playground
+
+This is my Elasticsearch playground to experiment with Elasticsearch.
